@@ -109,9 +109,11 @@ body {
     #title {
         font-family: Comic Sans MS, Comic Sans, cursive;
         font-size: 1.5em;
+        text-align: center;
     }
     #number {
         font-size: 4em;
+        text-align: center;
     }
     #input {
         padding: 0.5em 0.3em;
@@ -126,8 +128,10 @@ body {
     }
     .conv {
         font-size: 1em;
+        text-align: center;
     }
     .grey-color {
         font-size: 0.8em; 
+        text-align: center;
     }
 }
